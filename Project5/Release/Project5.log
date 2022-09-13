@@ -1,0 +1,2 @@
+﻿  OverlayTutorial.cpp
+C:\Users\User\source\repos\Project5\Project5\OverlayTutorial.cpp(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
